@@ -1,0 +1,3 @@
+/home/zerina/Desktop/zavrsni_projekat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zerina/Desktop/zavrsni_projekat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zerina/Desktop/zavrsni_projekat/cmake-build-debug/CMakeFiles/zavrsni_projekat.dir

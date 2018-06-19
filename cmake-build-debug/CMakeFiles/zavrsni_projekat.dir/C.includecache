@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zerina/Desktop/zavrsni_projekat/flower.c
+
+/home/zerina/Desktop/zavrsni_projekat/main.c
+GL/glut.h
+-
+flower.c
+/home/zerina/Desktop/zavrsni_projekat/flower.c
+
